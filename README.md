@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mustafa Erduran
-- 👀 I’m interested in IOS development and Software Development Fundamentals.
-- 🌱 I’m currently learning IOS development with Swift.
+- 👀 I’m interested in Software Development Fundamentals.
 - 📫 How to reach me https://www.linkedin.com/in/mustafaerduran/ or m.erduran96@gmail.com
 
 <!---
